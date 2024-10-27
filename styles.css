@@ -80,13 +80,13 @@ section {
 
 h2 {
     font-size: 2.5em;
-    color: #2c3e50;
+    color: #1e76ce;
     margin-bottom: 15px;
 }
 
 p {
     font-size: 1.2em;
-    color: #7f8c8d;
+    color: #7f878d;
 }
 
 /* Class for hiding the side bar */
@@ -106,16 +106,60 @@ p {
 .collapsed ul li a:before {
     font-size: 18px; /* Keep icons visible (if any) */
 }
-h1{
+h3{
     text-align: center;
   }
-  h3{
-    text-align: center;
+  header {
+      background: #e4ebf1;
+      color: white;
+      padding: 10px 0;
+      text-align: center;
   }
-  p1
-  {
-     coler: black;
+h1
+{
+    color:red;
+}
+body {
+    font-family: Arial, sans-serif;
+    background-image: url('https://tse3.mm.bing.net/th?id=OIP.c_K2E2xR0tpbipo6Hv6kUwHaEK&pid=Api&P=0&h=180'); /* Thay đổi link này thành link ảnh của bạn */
+    background-size: 100%;
+    background-position: center;
+    margin: 0;
+    padding: 0;
+    
 }
 footer{
+    text-align: center;  
+}
+img {
+    font-size: 60px;
+    font-weight: 400;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: normal;
+    
+
+}
+body {
+    font-family: Arial, sans-serif;
+    background-image: url('https://tse3.mm.bing.net/th?id=OIP.c_K2E2xR0tpbipo6Hv6kUwHaEK&pid=Api&P=0&h=180'); /* Thay đổi link này thành link ảnh của bạn */
+    background-size: cover;
+    background-position: center;
+    margin: 0;
+    padding: 20px;
+    color: #333;
+}
+
+
+
+P6{
+    color:crimson;
+    text-align: center;
+    font-size: 25px;
+}
+
+h0{
+    color:rgb(204, 23, 195);
+    font-size: 20px;
     text-align: center;
 }
+
